@@ -1,10 +1,20 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
+/* GitHub Pages 상단의 레포지토리 제목(Pages) 글자만 숨김 */
+.site-title,
+.site-title:visited,
+.site-header .site-title,
+header .site-title,
 header h1,
-header h1 a,
-.site-title {
-  display: none !important;
+header h1 a {
+  font-size: 0 !important;
+  color: transparent !important;
+  text-decoration: none !important;
+}
+
+/* 혹시 남는 클릭 영역/여백이 거슬릴 때를 대비해 높이는 건드리지 않음 */
+.site-title::before,
+.site-title::after {
+  content: none !important;
 }
