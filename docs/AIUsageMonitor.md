@@ -196,4 +196,10 @@ Gemini는 **웹 로그인**으로만 연동됩니다.
 ## 시스템 요구사항
 
 - **macOS 13.0 (Ventura)** 이상
-- Apple Silicon 또는 Intel
+- Apple Silicon 또는 Intel Mac (유니버설 바이너리)
+
+---
+
+## 📮 문의
+
+📧 **dltkdgns204@gmail.com**
