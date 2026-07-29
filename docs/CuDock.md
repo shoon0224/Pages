@@ -12,7 +12,10 @@ CuDock은 iPhone을 Mac용 무선 매크로 패드·트랙패드로 활용할 �
 [![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/id6780354176)
 
 ### Android (Play Store)
-- 스토어 배포 준비중입니다.
+
+![Android](https://img.shields.io/badge/Android-1.0.1-brightgreen)
+
+[Google Play에서 CuDock 다운로드](https://play.google.com/store/apps/details?id=kr.co.cudo.cudock&pcampaignid=web_share)
 
 ### Mac (DMG)
 
@@ -70,6 +73,13 @@ CuDock은 iPhone을 Mac용 무선 매크로 패드·트랙패드로 활용할 �
 - 여러 모니터 전환 및 창 배치·제어
 - 같은 Wi-Fi에서 Mac 자동 찾기 및 IP 주소로 직접 연결 지원
 - 다크 모드 / 라이트 모드 지원
+
+---
+
+## Android (Play Store)
+
+### 1.0.1
+- Google Play Store에 CuDock Android 앱을 정식 배포했습니다.
 
 ---
 
