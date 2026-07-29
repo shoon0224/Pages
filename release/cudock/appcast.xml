@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>CuDock</title>
+        <item>
+            <title>1.0.7</title>
+            <pubDate>Wed, 29 Jul 2026 15:16:10 +0900</pubDate>
+            <link>https://github.com/shoon0224/Pages/tree/main/release/cudock-ver1.0.7</link>
+            <sparkle:version>1000007</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/shoon0224/Pages/main/release/cudock-ver1.0.7/CuDock_v1.0.7.dmg" length="2197835" type="application/octet-stream" sparkle:edSignature="2SH3XlnsdpeI4oGQ3Dgivq4DvuKrnkkiDZPvcVQgLGHPBv8Q6S5foi/s2x/pSpb/sF8t3GW9BKHJt5WON925Bw=="/>
+        </item>
+    </channel>
+</rss>
