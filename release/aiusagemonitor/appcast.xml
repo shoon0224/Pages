@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>AI Usage Monitor</title>
+        <item>
+            <title>1.1.3</title>
+            <pubDate>Wed, 29 Jul 2026 13:01:54 +0900</pubDate>
+            <link>https://github.com/shoon0224/Pages/tree/main/release/aiusagemonitor-ver1.1.3</link>
+            <sparkle:version>1001003</sparkle:version>
+            <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/shoon0224/Pages/main/release/aiusagemonitor-ver1.1.3/AIUsageMonitor_v1.1.3.dmg" length="4369238" type="application/octet-stream" sparkle:edSignature="kaj84tKTTolFxe3f1Cr6tDIF13wh1NDDA4HlMndcHVRG4N1QUsafGerCyyyY41jVKO39/1aMtiZhHphgycx9Cw=="/>
+        </item>
+    </channel>
+</rss>
