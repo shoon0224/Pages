@@ -6,11 +6,15 @@ Claude · Cursor · Codex · Gemini AI 사용량과 일일 토큰 기록을 Mac 
 
 ## 다운로드
 
-| **최신 버전 (1.1.7)** | [AI Usage Monitor.dmg](https://raw.githubusercontent.com/shoon0224/Pages/main/release/aiusagemonitor-ver1.1.7/AIUsageMonitor_v1.1.7.dmg) |
+| **최신 버전 (1.1.8)** | [AI Usage Monitor.dmg](https://raw.githubusercontent.com/shoon0224/Pages/main/release/aiusagemonitor-ver1.1.8/AIUsageMonitor_v1.1.8.dmg) |
 
 ---
 
 ## 📋 업데이트 사항
+
+### 1.1.8
+
+- Claude Fable 사용량 및 iCloud 동기화 오류 안내 개선
 
 ### 1.1.7
 
