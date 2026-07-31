@@ -3,13 +3,13 @@
     <channel>
         <title>AI Usage Monitor</title>
         <item>
-            <title>1.1.8</title>
-            <pubDate>Thu, 30 Jul 2026 18:02:10 +0900</pubDate>
-            <link>https://github.com/shoon0224/Pages/tree/main/release/aiusagemonitor-ver1.1.8</link>
-            <sparkle:version>1001008</sparkle:version>
-            <sparkle:shortVersionString>1.1.8</sparkle:shortVersionString>
+            <title>1.1.9</title>
+            <pubDate>Fri, 31 Jul 2026 11:50:32 +0900</pubDate>
+            <link>https://github.com/shoon0224/Pages/tree/main/release/aiusagemonitor-ver1.1.9</link>
+            <sparkle:version>1001009</sparkle:version>
+            <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/shoon0224/Pages/main/release/aiusagemonitor-ver1.1.8/AIUsageMonitor_v1.1.8.dmg" length="4342834" type="application/octet-stream" sparkle:edSignature="PVA7VeNlA5gMBnrAf6k+J6dnUpLA2/4kcqiYkPGnpOk0lcqGRgy4fGXtu2njhv5QtbGN/96xBY7VamtTfsnuAA=="/>
+            <enclosure url="https://raw.githubusercontent.com/shoon0224/Pages/main/release/aiusagemonitor-ver1.1.9/AIUsageMonitor_v1.1.9.dmg" length="4425997" type="application/octet-stream" sparkle:edSignature="Sio5C6XXQXMFYvsAZjQ2QOL9WVGXmSs1c1QOCsbezfqF3vSk9RrGwMIvjNwrvF50mBxIY2mQO410b1OH2phgCg=="/>
         </item>
     </channel>
 </rss>
