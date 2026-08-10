@@ -19,9 +19,9 @@ CuDock은 iPhone을 Mac용 무선 매크로 패드·트랙패드로 활용할 �
 
 ### Mac (DMG)
 
-![Mac](https://img.shields.io/badge/Mac%20(DMG)-1.0.7-lightgrey)
+![Mac](https://img.shields.io/badge/Mac%20(DMG)-1.0.8-lightgrey)
 
-[Mac용 CuDock 다운로드](https://raw.githubusercontent.com/shoon0224/Pages/main/release/cudock-ver1.0.7/CuDock_v1.0.7.dmg)
+[Mac용 CuDock 다운로드](https://raw.githubusercontent.com/shoon0224/Pages/main/release/cudock-ver1.0.8/CuDock_v1.0.8.dmg)
 
 ---
 
@@ -84,6 +84,9 @@ CuDock은 iPhone을 Mac용 무선 매크로 패드·트랙패드로 활용할 �
 ---
 
 ## Mac (DMG)
+
+### 1.0.8
+- 시계·배터리 위젯 표시 개선 및 빈 페이지 편집 중 종료되던 문제 수정
 
 ### 1.0.7
 - Sparkle 2 기반 인앱 업데이트 기능을 추가했습니다.
