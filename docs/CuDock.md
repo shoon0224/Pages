@@ -19,9 +19,9 @@ CuDock은 iPhone을 Mac용 무선 매크로 패드·트랙패드로 활용할 �
 
 ### Mac (DMG)
 
-![Mac](https://img.shields.io/badge/Mac%20(DMG)-1.0.8-lightgrey)
+![Mac](https://img.shields.io/badge/Mac%20(DMG)-1.0.9-lightgrey)
 
-[Mac용 CuDock 다운로드](https://raw.githubusercontent.com/shoon0224/Pages/main/release/cudock-ver1.0.8/CuDock_v1.0.8.dmg)
+[Mac용 CuDock 다운로드](https://raw.githubusercontent.com/shoon0224/Pages/main/release/cudock-ver1.0.9/CuDock_v1.0.9.dmg)
 
 ---
 
@@ -103,6 +103,9 @@ CuDock은 iPhone을 Mac용 무선 매크로 패드·트랙패드로 활용할 �
 ---
 
 ## Mac (DMG)
+
+### 1.0.9
+- - 등록 외 앱 숨기기가 창을 숨기지 않고 독으로 최소화하도록 변경 - 최소화된 창이 닫힌 창으로 잘못 처리되어 다시 열 수 없던 문제 수정 - 숨김 상태로 갇힌 앱이 단축앱 실행 시 복구되도록 수정 - 최소화된 창이 창 추가 목록과 창 개수에서 빠지던 문제 수정 - 배포 버전 1.0.9
 
 ### 1.0.8
 - 배터리·시계 위젯 추가 (위젯별 설정 화면에서 표시 방식 선택 가능)
