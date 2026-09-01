@@ -7,6 +7,8 @@
 - [AIUsageMonitor 바로가기](https://shoon0224.github.io/Pages/AIUsageMonitor)
 
 - [CuDock 바로가기](https://shoon0224.github.io/Pages/CuDock)
+
+- [MoodClock 바로가기](https://shoon0224.github.io/Pages/MoodClock)
   
 - [VidiFrame 바로가기](https://shoon0224.github.io/Pages/VidiFrame)
 
