@@ -7,13 +7,13 @@ CuDock은 iPhone을 Mac용 무선 매크로 패드·트랙패드로 활용할 �
 
 ### iOS (App Store)
 
-![iOS](https://img.shields.io/badge/iOS-1.0.6-blue)
+![iOS](https://img.shields.io/badge/iOS-1.0.7-blue)
 
 [![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/id6780354176)
 
 ### Android (Play Store)
 
-![Android](https://img.shields.io/badge/Android-1.0.2-brightgreen)
+![Android](https://img.shields.io/badge/Android-1.0.3-brightgreen)
 
 [Google Play에서 CuDock 다운로드](https://play.google.com/store/apps/details?id=kr.co.cudo.cudock&pcampaignid=web_share)
 
@@ -28,6 +28,11 @@ CuDock은 iPhone을 Mac용 무선 매크로 패드·트랙패드로 활용할 �
 # 업데이트 내역
 
 ## iOS (App Store)
+
+### 1.0.7
+- 트랙패드에서 한 손가락 탭이 우클릭으로 인식되던 문제를 수정했습니다.
+- 두 손가락으로 짧게 스크롤할 때 우클릭이 실행되던 문제를 수정했습니다.
+- Mac에 새 기능이 추가돼도 런처 목록이 정상적으로 갱신되도록 개선했습니다.
 
 ### 1.0.6
 - 배터리·시계 위젯을 런처에 표시합니다.
@@ -86,6 +91,13 @@ CuDock은 iPhone을 Mac용 무선 매크로 패드·트랙패드로 활용할 �
 ---
 
 ## Android (Play Store)
+
+### 1.0.3
+- 런처 아이콘과 트랙패드에 진동 피드백을 추가했습니다.
+- 드래그 선택 바를 누를 때와 뗄 때 진동이 구분되도록 개선했습니다.
+- 트랙패드에서 한 손가락 탭이 우클릭으로 인식되던 문제를 수정했습니다.
+- 두 손가락으로 짧게 스크롤할 때 우클릭이 실행되던 문제를 수정했습니다.
+- Mac에 새 기능이 추가돼도 런처 목록이 정상적으로 갱신되도록 개선했습니다.
 
 ### 1.0.2
 - 배터리·시계 위젯을 런처에 표시합니다.
