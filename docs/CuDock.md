@@ -19,9 +19,9 @@ CuDock은 iPhone·Android 디바이스를 Mac용 무선 매크로 패드·트랙
 
 ### Mac (DMG)
 
-![Mac](https://img.shields.io/badge/Mac%20(DMG)-1.1.3-lightgrey)
+![Mac](https://img.shields.io/badge/Mac%20(DMG)-1.1.4-lightgrey)
 
-[Mac용 CuDock 다운로드](https://raw.githubusercontent.com/shoon0224/Pages/main/release/cudock-ver1.1.3/CuDock_v1.1.3.dmg)
+[Mac용 CuDock 다운로드](https://raw.githubusercontent.com/shoon0224/Pages/main/release/cudock-ver1.1.4/CuDock_v1.1.4.dmg)
 
 ---
 
@@ -115,6 +115,9 @@ CuDock은 iPhone·Android 디바이스를 Mac용 무선 매크로 패드·트랙
 ---
 
 ## Mac (DMG)
+
+### 1.1.4
+- 업데이트 안내를 닫아도 설치할 수 있는 사이드바 버튼 추가
 
 ### 1.1.3
 - 메인 화면을 열 때 업데이트 확인이 멈추던 문제 수정 및 안내 시점 개선
