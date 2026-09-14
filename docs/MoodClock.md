@@ -8,11 +8,16 @@ iOS 스탠바이를 참고하되 배경을 **완전한 검정(#000000)** 으로 
 
 ## 다운로드
 
-| **최신 버전 (1.1.0)** | [MoodClock.dmg](https://raw.githubusercontent.com/shoon0224/Pages/main/release/moodclock-ver1.1.0/MoodClock_v1.1.0.dmg) |
+| **최신 버전 (1.1.1)** | [MoodClock.dmg](https://raw.githubusercontent.com/shoon0224/Pages/main/release/moodclock-ver1.1.1/MoodClock_v1.1.1.dmg) |
 
 ---
 
 ## 📋 업데이트 사항
+
+### 1.1.1
+
+- **1.1.0이 실행하자마자 종료되던 문제를 고쳤습니다.** 1.1.0을 받으셨다면 이 버전을 다시 받아 설치해 주세요.
+- 이 버전부터 인앱 업데이트가 동작합니다. 다음 버전이 나오면 시계 화면에서 바로 받아 설치할 수 있습니다.
 
 ### 1.1.0
 
