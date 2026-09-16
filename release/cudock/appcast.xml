@@ -3,13 +3,13 @@
     <channel>
         <title>CuDock</title>
         <item>
-            <title>1.1.5</title>
-            <pubDate>Mon, 14 Sep 2026 16:25:46 +0900</pubDate>
-            <link>https://github.com/shoon0224/Pages/tree/main/release/cudock-ver1.1.5</link>
-            <sparkle:version>1001005</sparkle:version>
-            <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
+            <title>1.1.6</title>
+            <pubDate>Wed, 16 Sep 2026 11:41:09 +0900</pubDate>
+            <link>https://github.com/shoon0224/Pages/tree/main/release/cudock-ver1.1.6</link>
+            <sparkle:version>1001006</sparkle:version>
+            <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/shoon0224/Pages/main/release/cudock-ver1.1.5/CuDock_v1.1.5.dmg" length="2806106" type="application/octet-stream" sparkle:edSignature="v4wcsoBPSbbM6kCwN/L3DUfZ0OwGVU6gDcDq5CRh4q8VCWmJ1V3MWUShEOJmwQsLlTKGp2wjWd/kudiB9cwdDA=="/>
+            <enclosure url="https://raw.githubusercontent.com/shoon0224/Pages/main/release/cudock-ver1.1.6/CuDock_v1.1.6.dmg" length="2833944" type="application/octet-stream" sparkle:edSignature="OIrpKXWyaZUgd9sYcY2XeprfyehxQOKi95HT0K40hSsYj1GcaV3yw2g5pG0F7wcZTkAQw0BWdj9T03apgk3VBw=="/>
         </item>
     </channel>
 </rss>
