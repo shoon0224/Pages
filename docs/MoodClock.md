@@ -8,11 +8,15 @@ iOS 스탠바이를 참고하되 배경을 **완전한 검정(#000000)** 으로 
 
 ## 다운로드
 
-| **최신 버전 (1.1.1)** | [MoodClock.dmg](https://raw.githubusercontent.com/shoon0224/Pages/main/release/moodclock-ver1.1.1/MoodClock_v1.1.1.dmg) |
+| **최신 버전 (1.1.2)** | [MoodClock.dmg](https://raw.githubusercontent.com/shoon0224/Pages/main/release/moodclock-ver1.1.2/MoodClock_v1.1.2.dmg) |
 
 ---
 
 ## 📋 업데이트 사항
+
+### 1.1.2
+
+- 화면 아무 곳이나 더블클릭하면 전체화면이 되고, 다시 더블클릭하면 직전 창 크기로 돌아옵니다.
 
 ### 1.1.1
 
