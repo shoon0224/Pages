@@ -8,11 +8,17 @@ iOS 스탠바이를 참고하되 배경을 **완전한 검정(#000000)** 으로 
 
 ## 다운로드
 
-| **최신 버전 (1.1.2)** | [MoodClock.dmg](https://raw.githubusercontent.com/shoon0224/Pages/main/release/moodclock-ver1.1.2/MoodClock_v1.1.2.dmg) |
+| **최신 버전 (1.1.3)** | [MoodClock.dmg](https://raw.githubusercontent.com/shoon0224/Pages/main/release/moodclock-ver1.1.3/MoodClock_v1.1.3.dmg) |
 
 ---
 
 ## 📋 업데이트 사항
+
+### 1.1.3
+
+- 시계와 날씨 위에서 더블클릭해도 전체화면이 전환되지 않던 문제를 고쳤습니다.
+- 창 맨 위를 더블클릭해도 전체화면이 전환되도록 했습니다.
+- 다른 앱을 쓰다가 시계 창을 바로 더블클릭해도 전체화면이 전환되도록 했습니다.
 
 ### 1.1.2
 

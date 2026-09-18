@@ -3,13 +3,13 @@
     <channel>
         <title>MoodClock</title>
         <item>
-            <title>1.1.2</title>
-            <pubDate>Wed, 16 Sep 2026 11:26:10 +0900</pubDate>
-            <link>https://github.com/shoon0224/Pages/tree/main/release/moodclock-ver1.1.2</link>
-            <sparkle:version>1001002</sparkle:version>
-            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <title>1.1.3</title>
+            <pubDate>Fri, 18 Sep 2026 16:00:47 +0900</pubDate>
+            <link>https://github.com/shoon0224/Pages/tree/main/release/moodclock-ver1.1.3</link>
+            <sparkle:version>1001003</sparkle:version>
+            <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/shoon0224/Pages/main/release/moodclock-ver1.1.2/MoodClock_v1.1.2.dmg" length="2324340" type="application/octet-stream" sparkle:edSignature="2FCk2pXOhhbyIE5WeknGMP6cmhQQK5PBDkSUizCJB6ab95wIiqLtedr+ye3LT/5rIbu+HSMWay64lbAxlpkKBg=="/>
+            <enclosure url="https://raw.githubusercontent.com/shoon0224/Pages/main/release/moodclock-ver1.1.3/MoodClock_v1.1.3.dmg" length="2330557" type="application/octet-stream" sparkle:edSignature="lh7rBc48LyhgzpPsTwYsmabZ1UERAN/HjPCLtRAYUGoWjKuSuKE/6nFSc2s2KLAHK/LFG4EB2El0bkKVXzYWCA=="/>
         </item>
     </channel>
 </rss>
