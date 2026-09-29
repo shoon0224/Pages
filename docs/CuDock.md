@@ -19,9 +19,9 @@ CuDock은 iPhone·Android 디바이스를 Mac용 무선 매크로 패드·트랙
 
 ### Mac (DMG)
 
-![Mac](https://img.shields.io/badge/Mac%20(DMG)-1.2.0-lightgrey)
+![Mac](https://img.shields.io/badge/Mac%20(DMG)-1.2.1-lightgrey)
 
-[Mac용 CuDock 다운로드](https://raw.githubusercontent.com/shoon0224/Pages/main/release/cudock-ver1.2.0/CuDock_v1.2.0.dmg)
+[Mac용 CuDock 다운로드](https://raw.githubusercontent.com/shoon0224/Pages/main/release/cudock-ver1.2.1/CuDock_v1.2.1.dmg)
 
 ---
 
@@ -115,6 +115,9 @@ CuDock은 iPhone·Android 디바이스를 Mac용 무선 매크로 패드·트랙
 ---
 
 ## Mac (DMG)
+
+### 1.2.1
+- 유튜브 등 웹 입력칸에 폰 키보드 입력이 되지 않던 문제 수정
 
 ### 1.2.0
 - 인텔 맥에서 트랙패드 키보드 타이핑이 되지 않던 문제 및 한글 중복 입력 문제 수정
