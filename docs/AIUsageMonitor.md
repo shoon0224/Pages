@@ -6,11 +6,15 @@ Claude · Cursor · Codex · Gemini AI 사용량과 일일 토큰 기록을 Mac 
 
 ## 다운로드
 
-| **최신 버전 (1.2.1)** | [AI Usage Monitor.dmg](https://raw.githubusercontent.com/shoon0224/Pages/main/release/aiusagemonitor-ver1.2.1/AIUsageMonitor_v1.2.1.dmg) |
+| **최신 버전 (1.2.2)** | [AI Usage Monitor.dmg](https://raw.githubusercontent.com/shoon0224/Pages/main/release/aiusagemonitor-ver1.2.2/AIUsageMonitor_v1.2.2.dmg) |
 
 ---
 
 ## 📋 업데이트 사항
+
+### 1.2.2
+
+- 5시간 리셋 시각 표시 설정 추가 및 업데이트 확인 제한 완화
 
 ### 1.2.1
 
