@@ -6,11 +6,15 @@ Claude · Cursor · Codex · Gemini AI 사용량과 일일 토큰 기록을 Mac 
 
 ## 다운로드
 
-| **최신 버전 (1.2.2)** | [AI Usage Monitor.dmg](https://raw.githubusercontent.com/shoon0224/Pages/main/release/aiusagemonitor-ver1.2.2/AIUsageMonitor_v1.2.2.dmg) |
+| **최신 버전 (1.2.3)** | [AI Usage Monitor.dmg](https://raw.githubusercontent.com/shoon0224/Pages/main/release/aiusagemonitor-ver1.2.3/AIUsageMonitor_v1.2.3.dmg) |
 
 ---
 
 ## 📋 업데이트 사항
+
+### 1.2.3
+
+- 숫자 전환 애니메이션 제거·닫힌 메인 창 화면 해제로 상주 메모리 증가 방지
 
 ### 1.2.2
 
