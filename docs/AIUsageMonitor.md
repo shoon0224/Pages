@@ -6,11 +6,15 @@ Claude · Cursor · Codex · Gemini AI 사용량과 일일 토큰 기록을 Mac 
 
 ## 다운로드
 
-| **최신 버전 (1.2.3)** | [AI Usage Monitor.dmg](https://raw.githubusercontent.com/shoon0224/Pages/main/release/aiusagemonitor-ver1.2.3/AIUsageMonitor_v1.2.3.dmg) |
+| **최신 버전 (1.2.4)** | [AI Usage Monitor.dmg](https://raw.githubusercontent.com/shoon0224/Pages/main/release/aiusagemonitor-ver1.2.4/AIUsageMonitor_v1.2.4.dmg) |
 
 ---
 
 ## 📋 업데이트 사항
+
+### 1.2.4
+
+- 교체 전 위젯 프로세스 종료로 업데이트 후 위젯 갱신 멈춤 방지
 
 ### 1.2.3
 
