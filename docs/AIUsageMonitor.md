@@ -6,11 +6,15 @@ Claude · Cursor · Codex · Gemini AI 사용량과 일일 토큰 기록을 Mac 
 
 ## 다운로드
 
-| **최신 버전 (1.2.5)** | [AI Usage Monitor.dmg](https://raw.githubusercontent.com/shoon0224/Pages/main/release/aiusagemonitor-ver1.2.5/AIUsageMonitor_v1.2.5.dmg) |
+| **최신 버전 (1.2.6)** | [AI Usage Monitor.dmg](https://raw.githubusercontent.com/shoon0224/Pages/main/release/aiusagemonitor-ver1.2.6/AIUsageMonitor_v1.2.6.dmg) |
 
 ---
 
 ## 📋 업데이트 사항
+
+### 1.2.6
+
+- 데스크톱 앱 로그인 연결·AI 표시 선택 추가 및 요금제 배지·Gemini 사용량 오류 수정
 
 ### 1.2.5
 
