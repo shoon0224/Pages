@@ -8,11 +8,17 @@ iOS 스탠바이를 참고하되 배경을 **완전한 검정(#000000)** 으로 
 
 ## 다운로드
 
-| **최신 버전 (1.1.3)** | [MoodClock.dmg](https://raw.githubusercontent.com/shoon0224/Pages/main/release/moodclock-ver1.1.3/MoodClock_v1.1.3.dmg) |
+| **최신 버전 (1.1.4)** | [MoodClock.dmg](https://raw.githubusercontent.com/shoon0224/Pages/main/release/moodclock-ver1.1.4/MoodClock_v1.1.4.dmg) |
 
 ---
 
 ## 📋 업데이트 사항
+
+### 1.1.4
+
+- 선택한 날씨 출처가 응답하지 않으면 다른 출처를 거쳐 Apple 날씨로 자동 전환하도록 했습니다.
+- 기상청 인증키 오류가 "서버 응답 오류"로만 표시되던 문제를 고쳤습니다.
+- 설정 › 날씨에 출처별 연결 결과와 Apple 날씨 연결 확인 버튼을 추가했습니다.
 
 ### 1.1.3
 
